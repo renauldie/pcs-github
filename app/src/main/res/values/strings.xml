@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github Users UAS PCS</string>
+    <string name="finduser">Find User </string>
+    <string name="username">username </string>
+    <string name="github_username">github_username </string>
+    <string name="user_repo">Repository </string>
+    <string name="following">Following </string>
+    <string name="follower">Follower </string>
+    <string name="location">Location </string>
+    <string name="company">Company </string>
+    <string name="change_language">Setting </string>
+    <string name="detail_user">Detail User </string>
+    <string name="Daily_Reminder">Lets Check Github Account</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="_2021_rynn_copy_right">2021 Copyright Renauldie</string>
+    <string name="title_setting">Settings</string>
+</resources>

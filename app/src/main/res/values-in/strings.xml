@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github UAS PCS</string>
+    <string name="finduser">Temukan User </string>
+    <string name="username">username </string>
+    <string name="github_username">github_username </string>
+    <string name="user_repo">Repository </string>
+    <string name="following">Mengikuti </string>
+    <string name="follower">Pengikut </string>
+    <string name="location">Lokasi </string>
+    <string name="company">Perusahaan </string>
+    <string name="change_language">Pengaturan </string>
+    <string name="detail_user">Info Pengguna </string>
+    <string name="Daily_Reminder">Ayo, Kita lihat akun github</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="_2021_rynn_copy_right">2021 Copyright Renauldie</string>
+    <string name="title_setting">Pengaturan</string>
+
+
+</resources>
